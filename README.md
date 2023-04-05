@@ -12,7 +12,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 To see the accessibility on this webpage.
 
-### 1. Go to [deployment page]
+### 1. Go to https://shadowfre4k.github.io/HTML-Semantic/
 
 ### 2. right click ay aspect of the page
 
