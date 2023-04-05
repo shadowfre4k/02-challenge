@@ -12,20 +12,20 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 To see the accessibility on this webpage.
 
-### 1. Go to https://shadowfre4k.github.io/HTML-Semantic/
+### 1. Go to 
 
 ### 2. right click ay aspect of the page
 
 ### 3. Click "inspect Element"
 
-![alt text](/Develop/assets/images/Step-2-3-screenshot.png)
+![alt text](/assets/images/Step-2-3-screenshot.png)
 
 ### 4. Click the hover symbol (mouse over a square)
 
-![alt text](/Develop/assets/images/Step-4-screenshot.png)
+![alt text](/assets/images/Step-4-screenshot.png)
 
 ### 5. Hover over any element and you will be able to see under contrast and
 
 keyboard-focusable a green check mark if it applies
 
-![alt text](/Develop/assets/images/Step-5-screenshot.png)
+![alt text](/assets/images/Step-5-screenshot.png)
